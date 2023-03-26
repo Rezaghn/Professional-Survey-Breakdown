@@ -1,2 +1,2 @@
 # Professional-Survey-Breakdown
-The First Data set to warm my skills uo for Power BI
+The First Data set to warm my skills up for visualizing in Power BI  
